@@ -1,0 +1,2 @@
+# UAS-tutorprog
+Pada siang hari seorang CEO Bank meminta seorang programmer untuk membuat sebuah aplikasi untuk dapat menyimpan data uang nasabah. Karena Anda seorang programmer, Anda harus menyelesaikan tugas yang telah diberikan. Pada malam hari anda bekerja pada organisasi Hacker, di mana rencana kali ini adalah meretas bank dan mengincar sebuah file yang berisi data nasabah. Ketua memberikan tugas ini kepada Anda. (Ceritanya kalian punya 2 kepribadian yang dipisahkan waktu siang malam)
